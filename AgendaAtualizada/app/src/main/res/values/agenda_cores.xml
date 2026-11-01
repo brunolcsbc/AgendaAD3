@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agenda_azul">#1565C0</color>
+    <color name="agenda_azul_claro">#E3F2FD</color>
+    <color name="agenda_fundo">#F8FAFC</color>
+    <color name="agenda_texto">#263238</color>
+    <color name="agenda_texto_secundario">#607D8B</color>
+</resources>
